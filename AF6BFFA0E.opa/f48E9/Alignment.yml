@@ -1,0 +1,47 @@
+segment_sources:
+  I0F625726:
+    type: origin_type
+    relation: translation
+    language: en
+  IFDF8F371:
+    type: origin_type
+    relation: translation
+    language: de
+  I7458EC1E:
+    type: origin_type
+    relation: translation
+    language: es
+  I67774567:
+    type: origin_type
+    relation: translation
+    language: fr
+  IA684E24B:
+    type: origin_type
+    relation: translation
+    language: nl
+  I4B5FB193:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0abe6474d55248e9bf03a53c16fbd22b:
+    I0F625726: 7c475ec3db4a4ff798bb3def2e9a2acf
+    IFDF8F371: 609d36b45c1a4e2ea03241e945a40b4f
+    I7458EC1E: c4ec21ca856441d78c1935bc0dc9f397
+    I67774567: 2b0eb77f889b4a17979b90c9f197bf20
+    IA684E24B: 0f66bb32b755454e901852314e166c5f
+    I4B5FB193: 5bd0821c23ac40f084a6d61ccaeef314
+  4b596b2a0c974e228f6637ebbf40f94d:
+    I0F625726: ea0ab4ba1b754880a39fe4efeb471f9e
+    IFDF8F371: 77a06c016b054088b456977e28dad88a
+    I7458EC1E: 68b6c84eeea94195afcc0e7b365a0f1f
+    I67774567: 7c0cd5907ce14b7096a2c52d32d1cc28
+    IA684E24B: 46c41053c35d40f3b8b0d997d84a4ca1
+    I4B5FB193: 7c070366ebec48fd8e17e2dece263a9a
+  88bd18b59f95488fbc2599dc8707287e:
+    I0F625726: 4396379f375a41e3b465e00723f2c95c
+    IFDF8F371: 39b5d18a53234dc386ad76a8c9dbdd2a
+    I7458EC1E: 7452950536a44796aab7e5bf504ef2cc
+    I67774567: ebb6b6b9466f44ae9c88fbe4b33e710a
+    IA684E24B: ab2f8ed0bc0f4609a1005f99cc493d4c
+    I4B5FB193: 9a949437c08e417a9107689894407d82
